@@ -1,0 +1,98 @@
+2025/02/10 16:18:59 Starting server on port 8080...
+2025/02/10 16:18:59 listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2025/02/10 16:42:04 Starting server on port 8080...
+2025/02/10 16:42:04 listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2025/02/10 16:42:09 Starting server on port 8080...
+2025/02/10 16:42:09 listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2025/02/10 16:43:59 Starting server on port 8080 with API key: your****
+2025/02/10 16:43:59 listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2025/02/10 16:45:18 Starting server on port 8080 with API key: cbca****
+2025/02/10 16:45:18 listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2025/02/10 16:45:42 Starting server on port 8080 with API key: your****
+2025/02/10 16:45:42 listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2025/02/10 17:17:37 Starting server on port 8081
+2025/02/10 17:17:46 Received request from [::1]:62693
+2025/02/10 17:17:46 URL: /webhook
+2025/02/10 17:17:46 Query parameters: map[]
+2025/02/10 17:17:46 Received payload: 
+2025/02/10 17:17:46 Error decoding payload: unexpected end of JSON input
+2025/02/10 17:23:55 Server listening on :8081
+2025/02/10 17:24:03 Received request: GET /webhook
+2025/02/10 17:24:03 Query parameters: map[]
+2025/02/10 17:24:03 Invalid API key. Received: , Expected: cbcaafhwsllintiybhs9hmvz3slesmkalverqwrzlc460fyagtxw8lgttdypm6r8
+2025/02/10 17:24:13 Received request: GET /webhook
+2025/02/10 17:24:13 Query parameters: map[]
+2025/02/10 17:24:13 Invalid API key. Received: , Expected: cbcaafhwsllintiybhs9hmvz3slesmkalverqwrzlc460fyagtxw8lgttdypm6r8
+2025/02/10 17:28:46 Server listening on :8082
+2025/02/10 17:28:55 Received request: GET /webhook
+2025/02/10 17:28:55 Query parameters: map[]
+2025/02/10 17:28:55 Invalid API key. Received: , Expected: cbcaafhwsllintiybhs9hmvz3slesmkalverqwrzlc460fyagtxw8lgttdypm6r8
+2025/02/10 17:35:01 Received request: GET /webhook
+2025/02/10 17:35:01 Query parameters: map[]
+2025/02/10 17:35:01 Invalid API key. Received: , Expected: cbcaafhwsllintiybhs9hmvz3slesmkalverqwrzlc460fyagtxw8lgttdypm6r8
+2025/02/10 17:36:10 Server listening on :8082
+2025/02/10 17:36:14 Received request: GET /webhook
+2025/02/10 17:36:14 Query parameters: map[]
+2025/02/10 17:36:14 Invalid API key. Received: , Expected: http://animalsjunctions.com/?wpwhpro_action=main_6969&wpwhpro_api_key=cbcaafhwsllintiybhs9hmvz3slesmkalverqwrzlc460fyagtxw8lgttdypm6r8
+2025/02/10 17:36:16 Received request: GET /webhook
+2025/02/10 17:36:16 Query parameters: map[]
+2025/02/10 17:36:16 Invalid API key. Received: , Expected: http://animalsjunctions.com/?wpwhpro_action=main_6969&wpwhpro_api_key=cbcaafhwsllintiybhs9hmvz3slesmkalverqwrzlc460fyagtxw8lgttdypm6r8
+2025/02/10 17:36:17 Received request: GET /webhook
+2025/02/10 17:36:17 Query parameters: map[]
+2025/02/10 17:36:17 Invalid API key. Received: , Expected: http://animalsjunctions.com/?wpwhpro_action=main_6969&wpwhpro_api_key=cbcaafhwsllintiybhs9hmvz3slesmkalverqwrzlc460fyagtxw8lgttdypm6r8
+2025/02/10 17:36:18 Received request: GET /webhook
+2025/02/10 17:36:18 Query parameters: map[]
+2025/02/10 17:36:18 Invalid API key. Received: , Expected: http://animalsjunctions.com/?wpwhpro_action=main_6969&wpwhpro_api_key=cbcaafhwsllintiybhs9hmvz3slesmkalverqwrzlc460fyagtxw8lgttdypm6r8
+2025/02/10 17:38:47 Server listening on :8082
+2025/02/10 17:38:54 Received request: GET /webhook
+2025/02/10 17:38:54 Query parameters: map[]
+2025/02/10 17:38:54 Invalid API key. Received: , Expected: cbcaafhwsllintiybhs9hmvz3slesmkalverqwrzlc460fyagtxw8lgttdypm6r8
+2025/02/10 17:39:10 Received request: GET /webhook
+2025/02/10 17:39:10 Query parameters: map[]
+2025/02/10 17:39:10 Invalid API key. Received: , Expected: cbcaafhwsllintiybhs9hmvz3slesmkalverqwrzlc460fyagtxw8lgttdypm6r8
+2025/02/10 17:43:12 Starting server on :8081
+2025/02/10 17:43:33 Received request with query: 
+2025/02/10 17:43:46 Received request with query: 
+2025/02/10 17:43:49 Received request with query: 
+2025/02/10 17:47:43 Starting server on :8081
+2025/02/10 17:47:56 Received request with query: 
+2025/02/10 17:55:47 Received request with query: 
+2025/02/10 17:57:58 Received request with query: 
+2025/02/10 18:00:58 Server listening on :8081
+2025/02/10 18:02:02 Server listening on :8081
+2025/02/10 18:02:55 Starting server on :8081
+2025/02/10 18:02:59 Received request with query: 
+2025/02/10 18:02:59 Received request with query: 
+2025/02/10 18:03:00 Received request with query: 
+2025/02/10 18:03:31 Received request with query: 
+2025/02/10 18:05:00 Starting server on :8081
+2025/02/10 18:05:04 Received request with query: 
+2025/02/10 18:05:05 Received request with query: 
+2025/02/10 18:05:05 Received request with query: 
+2025/02/10 18:05:06 Received request with query: 
+2025/02/10 18:07:24 Starting server on :8081
+2025/02/10 18:07:37 Received request: GET /webhook
+2025/02/10 18:07:37 Invalid API key
+2025/02/10 18:07:38 Received request: GET /webhook
+2025/02/10 18:07:38 Invalid API key
+2025/02/10 18:09:55 Received request: GET /webhook
+2025/02/10 18:09:55 Invalid API key
+2025/02/10 18:10:56 Starting server on :8081
+2025/02/10 18:11:00 Received request: GET /webhook
+2025/02/10 18:11:00 Invalid API key
+2025/02/10 18:11:00 Received request: GET /webhook
+2025/02/10 18:11:00 Invalid API key
+2025/02/10 18:11:01 Received request: GET /webhook
+2025/02/10 18:11:01 Invalid API key
+2025/02/10 18:12:02 Starting server on :8081
+2025/02/10 18:12:06 Received request: GET /webhook
+2025/02/10 18:12:06 Invalid API key
+2025/02/10 18:12:06 Received request: GET /webhook
+2025/02/10 18:12:06 Invalid API key
+2025/02/10 18:12:07 Received request: GET /webhook
+2025/02/10 18:12:07 Invalid API key
+2025/02/10 18:12:07 Received request: GET /webhook
+2025/02/10 18:12:07 Invalid API key
+2025/02/10 18:12:08 Received request: GET /webhook
+2025/02/10 18:12:08 Invalid API key
+2025-02-11 17:40:42,602 - INFO - Starting webhook server on port 8083...
