@@ -11,7 +11,7 @@ import subprocess
 
 # Configuration
 API_KEY = "cbcaafhwsllintiybhs9hmvz3slesmkalverqwrzlc460fyagtxw8lgttdypm6r8"  # Replace with your actual API key
-HUGO_BASE_DIR = Path("./hugo")  # Replace with your Hugo site path
+HUGO_BASE_DIR = Path("C:/Users/Sabakat/wordpress-to-hugo/wordpressToHugo")  # Correct path # Replace with your Hugo site path
 HUGO_CONTENT_DIR = HUGO_BASE_DIR / "content" / "posts"
 HUGO_STATIC_DIR = HUGO_BASE_DIR / "static" / "uploads"
 PORT = 8083
